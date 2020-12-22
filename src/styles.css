@@ -123,3 +123,9 @@
       display: none;
     }
   }
+
+  /* datatable remove No matching records found*/
+  .dataTables_empty {
+    display: none;
+  }
+  /* datatable remove No matching records found*/
